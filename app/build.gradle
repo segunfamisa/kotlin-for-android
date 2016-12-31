@@ -30,6 +30,7 @@ dependencies {
     compile "org.jetbrains.anko:anko-common:$ankoVersion"
 
     compile "com.android.support:appcompat-v7:$supportLibraryVersion"
+    compile "com.android.support:recyclerview-v7:$supportLibraryVersion"
 
     testCompile 'junit:junit:4.12'
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
