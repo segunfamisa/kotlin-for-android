@@ -8,6 +8,7 @@ buildscript {
         targetSdkVersion = 25
 
         supportLibraryVersion = "25.1.0"
+        gsonVersion = "2.4"
 
         // kotlin (dependencies) versions
         ankoVersion = '0.8.2'
