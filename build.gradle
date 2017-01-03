@@ -9,6 +9,7 @@ buildscript {
 
         supportLibraryVersion = "25.1.0"
         gsonVersion = "2.4"
+        picassoVersion = "2.5.2"
 
         // kotlin (dependencies) versions
         ankoVersion = '0.8.2'

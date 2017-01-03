@@ -32,6 +32,7 @@ dependencies {
     compile "com.android.support:appcompat-v7:$supportLibraryVersion"
     compile "com.android.support:recyclerview-v7:$supportLibraryVersion"
     compile "com.google.code.gson:gson:$gsonVersion"
+    compile "com.squareup.picasso:picasso:$picassoVersion"
 
     testCompile 'junit:junit:4.12'
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
