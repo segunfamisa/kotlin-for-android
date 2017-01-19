@@ -28,6 +28,7 @@ dependencies {
     // kotlin dependencies
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlinVersion"
     compile "org.jetbrains.anko:anko-common:$ankoVersion"
+    compile "org.jetbrains.anko:anko-sqlite:$ankoVersion"
 
     compile "com.android.support:appcompat-v7:$supportLibraryVersion"
     compile "com.android.support:recyclerview-v7:$supportLibraryVersion"
